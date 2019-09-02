@@ -1,0 +1,34 @@
+{
+  "name": "react-drag",
+  "version": "1.0.0",
+  "description": "React Drag and Drop package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnam/react-dragondrop.git"
+  },
+  "keywords": [
+    "React",
+    "drag",
+    "and",
+    "drop",
+    "Drag",
+    "n",
+    "drop",
+    "React",
+    "component"
+  ],
+  "author": "Kavita Nambissan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvnam/react-dragondrop/issues"
+  },
+  "homepage": "https://github.com/kvnam/react-dragondrop#readme",
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
